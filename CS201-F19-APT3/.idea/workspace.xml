@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="445a8abe-00d6-4b8d-a1c8-556d87cd57a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QvS3vDbWNUnssrNGFLGuuUCrw0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.SetAside">
+    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encryption" />
+      <module name="CS201-F19-APT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MemberCheck" />
+      <module name="CS201-F19-APT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairDown" />
+      <module name="CS201-F19-APT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetAside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetAside" />
+      <module name="CS201-F19-APT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stub" />
+      <module name="CS201-F19-APT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SetAside" />
+        <item itemvalue="Application.MemberCheck" />
+        <item itemvalue="Application.Stub" />
+        <item itemvalue="Application.Encryption" />
+        <item itemvalue="Application.PairDown" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445a8abe-00d6-4b8d-a1c8-556d87cd57a9" name="Default Changelist" comment="" />
+      <created>1568649380370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568649380370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="261" key="Github.CreateGistDialog" timestamp="1576570764469">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state x="433" y="261" key="Github.CreateGistDialog/0.23.1280.686@0.23.1280.686" timestamp="1576570764469" />
+    <state width="1225" height="115" key="GridCell.Tab.0.bottom" timestamp="1576763383462">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state width="1225" height="115" key="GridCell.Tab.0.bottom/0.23.1280.686@0.23.1280.686" timestamp="1576763383462" />
+    <state width="1225" height="115" key="GridCell.Tab.0.center" timestamp="1576763383460">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state width="1225" height="115" key="GridCell.Tab.0.center/0.23.1280.686@0.23.1280.686" timestamp="1576763383460" />
+    <state width="1225" height="115" key="GridCell.Tab.0.left" timestamp="1576763383459">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state width="1225" height="115" key="GridCell.Tab.0.left/0.23.1280.686@0.23.1280.686" timestamp="1576763383459" />
+    <state width="1225" height="115" key="GridCell.Tab.0.right" timestamp="1576763383461">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state width="1225" height="115" key="GridCell.Tab.0.right/0.23.1280.686@0.23.1280.686" timestamp="1576763383461" />
+    <state x="294" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1576636299493">
+      <screen x="0" y="23" width="1280" height="686" />
+    </state>
+    <state x="294" y="177" key="com.intellij.ide.util.TipDialog/0.23.1280.686@0.23.1280.686" timestamp="1576636299493" />
+  </component>
+</project>
