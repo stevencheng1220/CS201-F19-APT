@@ -1,4 +1,4 @@
-# CS201-F19-APT
+# Duke CS201 APTs
 
 Duke University CompSci 201 APTs (Fall 2019).
 
